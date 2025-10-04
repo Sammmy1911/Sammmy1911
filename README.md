@@ -49,6 +49,8 @@ You’ll find in my repositories a mix of personal projects, academic work, and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
 </div>
 ---
+
+
 ### 🌐 Connect With Me
 
 <div align="left">
@@ -59,6 +61,7 @@ You’ll find in my repositories a mix of personal projects, academic work, and 
   <a href="https://www.linkedin.com/in/samuel-gallego-30a525387" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
 </div>
 
+---
 
 ### 📊 GitHub Stats
 
@@ -69,7 +72,6 @@ You’ll find in my repositories a mix of personal projects, academic work, and 
 </div>
 
 ---
-
 
 <div align="center">
   <a href="https://open.spotify.com/user/Sammygal">
