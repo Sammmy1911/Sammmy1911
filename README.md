@@ -73,11 +73,13 @@ You’ll find in my repositories a mix of personal projects, academic work, and 
 
 ---
 
+
 <div align="center">
-  <a href="https://open.spotify.com/user/Sammygal">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Sammygal&count=10" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31w5kgf2su2ir2iyhiw6fuqwiyxi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31w5kgf2su2ir2iyhiw6fuqwiyxi&count=10" alt="Spotify recently played"  />
   </a>
 </div>
+
 
 ---
 <div>
