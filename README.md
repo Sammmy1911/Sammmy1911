@@ -4,10 +4,17 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Samuel and I'm a Systems Engineering student from Universidad Icesi 🇨🇴</h2>
+<h2 align="left">Hi 👋! My name is Samuel, Welcome to my Git Hub</h2>
 
 ###
+---
+Im a passionate developer who enjoys solving problems through clean and efficient code.  
+I’m constantly learning and exploring new technologies, with a strong interest in software architecture, backend development, and functional programming.  
 
+I enjoy building projects that combine **academic rigor** with **real-world applicability**, focusing on clarity, performance, and scalability.  
+You’ll find in my repositories a mix of personal projects, academic work, and experiments with different paradigms and frameworks.
+
+---
 <img align="right" height="150" src="https://i.pinimg.com/originals/c5/6d/1b/c56d1bd94eb444b365c26406190ac296.gif"  />
 
 ###
@@ -44,8 +51,6 @@
 </div>
 
 ---
-
-### 🌐 Connect With Me
 
 ### 🌐 Connect With Me
 
