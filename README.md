@@ -12,10 +12,12 @@
 
 ###
 
-💻 I'm currently in my **5th semester** of Systems Engineering.  
-☁️ I love collaborating on **cloud development projects**.  
-🎮 I'm passionate about **geek culture**, tech, and learning new tools.  
-🚀 Always looking to improve and build scalable, well-structured software.
+- 👨‍💻 Currently studying **Systems Engineering at Universidad Icesi**.  
+- ☁️ Interested in **software development in the cloud**.  
+- 🤝 Open to collaboration on **open-source and academic projects**.  
+- 🧩 Geek culture enthusiast — love games, tech, and creative challenges.  
+
+---
 
 ---
 
