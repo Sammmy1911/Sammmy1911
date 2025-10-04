@@ -1,73 +1,58 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-
-###
-
-<br clear="both">
-
-<div align="right">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="60" alt="scala logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="60" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
 
-## Hi there 👋
+<h2 align="left">Hi 👋! My name is Samuel and I'm a Systems Engineering student from Universidad Icesi 🇨🇴</h2>
 
-I'm **Samuel**, a **Systems Engineering student at Universidad Icesi**, currently in my **5th semester**.  
-I’m passionate about technology, functional programming, and everything related to **geek culture** 🎮💻.  
+###
 
-I enjoy collaborating on **cloud-based development projects**, learning new tools, and building clean, scalable software solutions.  
-My goal is to keep growing as a developer while contributing to innovative and impactful projects.
+<img align="right" height="150" src="https://i.pinimg.com/originals/c5/6d/1b/c56d1bd94eb444b365c26406190ac296.gif"  />
 
----
+###
 
-### 🧠 Languages and Technologies I Use
-
-- **Python** – scripting, automation, backend, and data processing.  
-- **Java** – object-oriented design, enterprise software, and APIs.  
-- **Scala** – functional programming, recursion, and academic projects.  
+💻 I'm currently in my **5th semester** of Systems Engineering.  
+☁️ I love collaborating on **cloud development projects**.  
+🎮 I'm passionate about **geek culture**, tech, and learning new tools.  
+🚀 Always looking to improve and build scalable, well-structured software.
 
 ---
 
-### 🚀 I’m Currently Learning
+### 🧠 Languages and Tools
 
-- Cloud computing and distributed systems.  
-- Functional and reactive programming patterns.  
-- DevOps concepts and deployment automation.  
-
----
-
-### 💬 More About Me
-
-- 👨‍💻 Studying **Systems Engineering at Universidad Icesi**.  
-- ☁️ Interested in **software development in the cloud**.  
-- 🤝 Open to collaborating on **open-source and academic projects**.  
-- 🧩 Geek culture enthusiast — love games, tech, and creative challenges.  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="30" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="30" alt="scala logo"  />
+</div>
 
 ---
 
 ### 🌐 Connect With Me
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+<div align="left">
+  <a href="#"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
 </div>
 
 ---
@@ -75,12 +60,27 @@ My goal is to keep growing as a developer while contributing to innovative and i
 ### 🎧 What I'm Listening To
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31w5kgf2su2ir2iyhiw6fuqwiyxi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31w5kgf2su2ir2iyhiw6fuqwiyxi&count=10&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/Sammygal">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Sammygal&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
 ---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Sammmy1911&theme=highcontrast&border_radius=4.8&short_numbers=true&hide_longest_streak=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
 
 ### 📊 GitHub Status
 
