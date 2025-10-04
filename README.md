@@ -19,8 +19,6 @@
 
 ---
 
----
-
 ### 🧠 Languages and Tools
 
 <div align="left">
@@ -49,21 +47,26 @@
 
 ### 🌐 Connect With Me
 
+### 🌐 Connect With Me
+
 <div align="left">
-  <a href="#"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
+  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" /></a>
+  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
+  <a href="https://discord.com/users/" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
+  <a href="mailto:sammygal1219@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
+  <a href="https://www.linkedin.com/in/samuel-gallego-30a525387" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
 </div>
+
+📧 **Email:** [sammygal1219@gmail.com](mailto:sammygal1219@gmail.com)  
+💼 **LinkedIn:** [Samuel Gallego](https://www.linkedin.com/in/samuel-gallego-30a525387)
 
 ---
 
 ### 🎧 What I'm Listening To
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Sammygal">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Sammygal&count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31w5kgf2su2ir2iyhiw6fuqwiyxi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31w5kgf2su2ir2iyhiw6fuqwiyxi&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
