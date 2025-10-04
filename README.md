@@ -82,12 +82,5 @@
 </div>
 
 
-### 📊 GitHub Status
-
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sammmy1911&theme=highcontrast&border_radius=4.8&short_numbers=true&hide_longest_streak=true" alt="GitHub Streak" />
-</a>
-
----
 
 ⭐ _Thanks for visiting my profile! Feel free to explore my repositories or connect if you share similar interests._
