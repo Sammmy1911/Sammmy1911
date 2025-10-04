@@ -60,11 +60,6 @@ You’ll find in my repositories a mix of personal projects, academic work, and 
 </div>
 
 
-
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/c5/6d/1b/c56d1bd94eb444b365c26406190ac296.gif"  />
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -75,6 +70,14 @@ You’ll find in my repositories a mix of personal projects, academic work, and 
 
 ---
 
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Sammygal">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Sammygal&count=10" alt="Spotify recently played"  />
+  </a>
+</div>
+
+---
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
